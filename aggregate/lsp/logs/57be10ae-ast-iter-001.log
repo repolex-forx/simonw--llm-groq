@@ -1,0 +1,7 @@
+[2026-10-15T09:17:48Z] === AST ITERATION 1 START | repo=simonw/llm-groq sha=57be10ae ===
+[2026-10-15T09:17:48Z] [iter=1] PHASE START: ast repo=simonw/llm-groq sha=57be10ae
+[2026-10-15T09:17:48Z] [iter=1] Building AST aggregate chunks
+[2026-10-15T09:17:49Z] [iter=1] AST chunks built count=1 triples=11747
+[2026-10-15T09:17:49Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/57be10aeb6f69b31b067060209688982c409dd51/.complete
+[2026-10-15T09:17:49Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-15T09:17:49Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

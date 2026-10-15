@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-groq/commit/57be10aeb6f69b31b067060209688982c409dd51",
       "git:hexsha": "57be10aeb6f69b31b067060209688982c409dd51",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
