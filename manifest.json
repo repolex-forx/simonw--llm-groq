@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-groq",
+  "versions": [
+    {
+      "commit": "57be10aeb6f69b31b067060209688982c409dd51",
+      "parsed_at": "2026-10-15T09:16:55.400639+00:00",
+      "filetree": "filetree/57be10aeb6f69b31b067060209688982c409dd51.nq.gz",
+      "blobs": [
+        "blob/81d12437d0f460fe8d9b2e66e2057569e001c3c3.nq.gz",
+        "blob/9b7a3e7612708f0ee69bcf2a30d5803f4679fa61.nq.gz",
+        "blob/ac54e581f8775d5801056ee09d830171591ef9a3.nq.gz",
+        "blob/f49a4e16e68b128803cc2dcea614603632b04eac.nq.gz",
+        "blob/fd466ca165ce68b058f9680d3d20de5ade2adda5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
